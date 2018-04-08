@@ -39,4 +39,7 @@ public class Demo {
 	public void getDemo02(){
 		System.out.println("222");
 	}
+	public void getDemo03(){
+		System.out.println("333");
+	}
 }
