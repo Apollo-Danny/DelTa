@@ -36,5 +36,7 @@ public class Demo {
 		System.out.println("1");
 	}
 	
-	
+	public void getDemo02(){
+		System.out.println("222");
+	}
 }
