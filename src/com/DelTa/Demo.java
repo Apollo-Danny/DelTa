@@ -32,6 +32,9 @@ public class Demo {
 		this.adress = adress;
 	}
 	
+	public void getDemo(){
+		System.out.println("1");
+	}
 	
 	
 }
