@@ -39,4 +39,11 @@ public class Demo {
 	public void getDemo02(){
 		System.out.println("222");
 	}
+	
+	/**
+	 * one分支提交代码
+	 */
+	public void getOne(){
+		System.out.println("555");
+	}
 }
