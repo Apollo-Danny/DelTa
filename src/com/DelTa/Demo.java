@@ -5,8 +5,18 @@ public class Demo {
 	private  String name ;
 	
 	private int id ;
+
+	private String password ;
 	
 	private String adress ;
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
 
 	public String getName() {
 		return name;
